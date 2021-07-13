@@ -1,0 +1,30 @@
+C:\Users\Georges\Desktop\New folder\SandboxGame\SandboxGame.Data\bin\Debug\net5.0\SandboxGame.Data.deps.json
+C:\Users\Georges\Desktop\New folder\SandboxGame\SandboxGame.Data\bin\Debug\net5.0\SandboxGame.Data.runtimeconfig.json
+C:\Users\Georges\Desktop\New folder\SandboxGame\SandboxGame.Data\bin\Debug\net5.0\SandboxGame.Data.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\New folder\SandboxGame\SandboxGame.Data\bin\Debug\net5.0\SandboxGame.Data.dll
+C:\Users\Georges\Desktop\New folder\SandboxGame\SandboxGame.Data\bin\Debug\net5.0\ref\SandboxGame.Data.dll
+C:\Users\Georges\Desktop\New folder\SandboxGame\SandboxGame.Data\bin\Debug\net5.0\SandboxGame.Data.pdb
+C:\Users\Georges\Desktop\New folder\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georges\Desktop\New folder\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\New folder\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.AssemblyInfo.cs
+C:\Users\Georges\Desktop\New folder\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\New folder\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.dll
+C:\Users\Georges\Desktop\New folder\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\ref\SandboxGame.Data.dll
+C:\Users\Georges\Desktop\New folder\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.pdb
+C:\Users\Georges\Desktop\New folder\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.genruntimeconfig.cache
+C:\Users\Georges\Desktop\New folder\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.csproj.AssemblyReference.cache
+C:\Users\Georges\Desktop\SandboxGame\SandboxGame\SandboxGame.Data\bin\Debug\net5.0\SandboxGame.Data.deps.json
+C:\Users\Georges\Desktop\SandboxGame\SandboxGame\SandboxGame.Data\bin\Debug\net5.0\SandboxGame.Data.runtimeconfig.json
+C:\Users\Georges\Desktop\SandboxGame\SandboxGame\SandboxGame.Data\bin\Debug\net5.0\SandboxGame.Data.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\SandboxGame\SandboxGame\SandboxGame.Data\bin\Debug\net5.0\SandboxGame.Data.dll
+C:\Users\Georges\Desktop\SandboxGame\SandboxGame\SandboxGame.Data\bin\Debug\net5.0\ref\SandboxGame.Data.dll
+C:\Users\Georges\Desktop\SandboxGame\SandboxGame\SandboxGame.Data\bin\Debug\net5.0\SandboxGame.Data.pdb
+C:\Users\Georges\Desktop\SandboxGame\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georges\Desktop\SandboxGame\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\SandboxGame\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.AssemblyInfo.cs
+C:\Users\Georges\Desktop\SandboxGame\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\SandboxGame\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.dll
+C:\Users\Georges\Desktop\SandboxGame\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\ref\SandboxGame.Data.dll
+C:\Users\Georges\Desktop\SandboxGame\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.pdb
+C:\Users\Georges\Desktop\SandboxGame\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.genruntimeconfig.cache
+C:\Users\Georges\Desktop\SandboxGame\SandboxGame\SandboxGame.Data\obj\Debug\net5.0\SandboxGame.Data.csproj.AssemblyReference.cache
